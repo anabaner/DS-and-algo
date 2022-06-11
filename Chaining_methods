@@ -1,0 +1,17 @@
+Data Structures For Storing Chains: 
+Linked lists
+Search: O(l) where l = length of linked list
+Delete: O(l)
+Insert: O(l)
+Not cache friendly
+Dynamic Sized Arrays ( Vectors in C++, ArrayList in Java, list in Python)
+Search: O(l) where l = length of array
+Delete: O(l)
+Insert: O(l)
+Cache friendly
+Self Balancing BST ( AVL Trees, Red Black Trees)
+Search: O(log(l))
+Delete: O(log(l))
+Insert: O(l)
+Not cache friendly
+Java 8 onwards use this for HashMap
